@@ -3,6 +3,20 @@
     <channel>
         <title>ChartMotion</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Fri, 30 Oct 2026 19:08:03 +0530</pubDate>
+            <link>https://themediaarchitects.in</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.4/ChartMotion-1.2.4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.4/ChartMotion-1.2.4.zip" length="56575537" type="application/octet-stream" sparkle:edSignature="WseHXrXjYYFSitjGhCpbrCJkH2tvdt5+8CT1ncClC/sEpujGofc99PgnrlJBQFZQKepOWlmhZPuWUF7uSb9VDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.4/ChartMotion8-7.delta" sparkle:deltaFrom="7" length="77898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rTz3gpX4Q2to3izCjiKFEI6BcWALpH4bvLRlBmPb6xkglzkJVWKsCmFZ+Q6x/IArDU6osqjoGYQeBpgOPhVbAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Fri, 30 Oct 2026 17:14:31 +0530</pubDate>
             <link>https://themediaarchitects.in</link>
@@ -10,8 +24,8 @@
             <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.3/ChartMotion-1.2.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.3/ChartMotion-1.2.3.zip" length="56571166" type="application/octet-stream" sparkle:edSignature="a2YOORLakyRQinHz+8/DWc8jHGsU6qVfyQ44fCd5A4Xt0YmpT+gvXuQEZEBTgDnErtwPi8qyQbAR/x9h3rjSCQ=="/>
+            <sparkle:releaseNotesLink>https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.4/ChartMotion-1.2.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.4/ChartMotion-1.2.3.zip" length="56571166" type="application/octet-stream" sparkle:edSignature="a2YOORLakyRQinHz+8/DWc8jHGsU6qVfyQ44fCd5A4Xt0YmpT+gvXuQEZEBTgDnErtwPi8qyQbAR/x9h3rjSCQ=="/>
         </item>
     </channel>
 </rss>
