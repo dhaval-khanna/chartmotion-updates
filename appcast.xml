@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChartMotion</title>
+        <item>
+            <title>1.2.3</title>
+            <pubDate>Fri, 30 Oct 2026 17:14:31 +0530</pubDate>
+            <link>https://themediaarchitects.in</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.3/ChartMotion-1.2.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dhaval-khanna/chartmotion-updates/releases/download/v1.2.3/ChartMotion-1.2.3.zip" length="56571166" type="application/octet-stream" sparkle:edSignature="a2YOORLakyRQinHz+8/DWc8jHGsU6qVfyQ44fCd5A4Xt0YmpT+gvXuQEZEBTgDnErtwPi8qyQbAR/x9h3rjSCQ=="/>
+        </item>
+    </channel>
+</rss>
