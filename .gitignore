@@ -1,0 +1,7 @@
+# release binaries live in GitHub Releases, not in this repository (generate_appcast keeps them here for deltas)
+*.zip
+*.delta
+*.pkg
+*.dmg
+old_updates/
+.DS_Store
